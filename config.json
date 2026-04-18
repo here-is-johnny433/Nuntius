@@ -1,0 +1,10 @@
+{
+  "teacherJid": "50259999999@s.whatsapp.net",
+  "groupJid": "120363XXXXXXXXXX@g.us",
+  "enabled": false,
+  "forwardCaption": "📸 De parte de la maestra",
+  "stats": {
+    "forwardedCount": 0,
+    "lastForwardedAt": null
+  }
+}

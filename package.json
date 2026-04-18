@@ -1,0 +1,19 @@
+{
+  "name": "nuntius",
+  "version": "1.0.0",
+  "description": "WhatsApp photo forwarder — listens for images from a specific sender and forwards them to a group.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "list-groups": "node src/list-groups.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "7.0.0-rc.9",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "pino": "^9.5.0"
+  }
+}
